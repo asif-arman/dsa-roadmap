@@ -66,6 +66,9 @@ Where:
 * V = Number of vertices
 * E = Number of edges
 
+## Example
+
+![BFS Example](images/bfs_traversal.png)
 
 ## Common Applications
 
