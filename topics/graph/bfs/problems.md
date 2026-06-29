@@ -2,7 +2,7 @@
 
 ## Easy
 
-* [ ] Graph BFS Traversal (GeeksforGeeks)
+* [x] Graph BFS Traversal (GeeksforGeeks) -> ../../../../problems/geeksforgeeks/bfs_traversal_of_graph.cpp
 * [ ] Binary Tree Level Order Traversal (LeetCode 102)
 * [ ] Find if Path Exists in Graph (LeetCode 1971)
 
