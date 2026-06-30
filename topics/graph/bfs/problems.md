@@ -10,7 +10,7 @@
 
 ## Medium
 
-* [ ] Number of Islands (LeetCode 200)
+* [x] [Number of Islands (LeetCode 200)](../../../problems/leetcode/lc_200_number_of_islands.cpp) -> [note](../../../problems/leetcode/lc_200_number_of_islands.md)
 * [ ] Rotting Oranges (LeetCode 994)
 * [ ] Open the Lock (LeetCode 752)
 * [ ] Word Ladder (LeetCode 127)
