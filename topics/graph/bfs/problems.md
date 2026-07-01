@@ -3,8 +3,8 @@
 ## Easy
 
 * [x] [Graph BFS Traversal (GeeksforGeeks)](/problems/geeksforgeeks/bfs_traversal_of_graph.cpp)
-* [ ] Binary Tree Level Order Traversal (LeetCode 102)
-* [ ] Find if Path Exists in Graph (LeetCode 1971)
+* [x] [Binary Tree Level Order Traversal (LeetCode 102) ](../../../problems\leetcode\lc_102_binary_tree_level_order_traversal.cpp) ->[note](../../../problems/leetcode/lc_102_binary_tree_level_order_traversal.md)
+* [x] [Find if Path Exists in Graph (LeetCode 1971)](../../../problems\leetcode\lc_1971_find_if_path_exists_in_graph.cpp) -> [note](../../../problems\leetcode\lc_1971_find_if_path_exists_in_graph.md)
 
 ---
 
