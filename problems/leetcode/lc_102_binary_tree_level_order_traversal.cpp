@@ -1,3 +1,14 @@
+/*
+Platform   : LeetCode
+Problem    : 102. Binary Tree Level Order Traversal
+Link       : https://leetcode.com/problems/binary-tree-level-order-traversal/description/
+Topic      : Graph - BFS
+Difficulty : Medium
+Status     : Solved
+Approach   : BFS
+Time       : O(n)
+Space      : O(n)
+*/
 
 #include<bits/stdc++.h>
 using namespace std;
